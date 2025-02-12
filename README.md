@@ -1,13 +1,9 @@
 <div align="center">
 
 # 📊 GitHub Stats:
+![KarthikRagula's Stats](https://github-readme-stats.vercel.app/api?username=KarthikRagula&theme=radical&show_icons=true&hide_border=true&count_private=true)
 
-![](https://github-readme-stats.vercel.app/api?username=KarthikRagula&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=KarthikRagula&theme=ocean_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikRagula&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![KarthikRagula's Streak](https://github-readme-streak-stats.herokuapp.com/?user=KarthikRagula&theme=radical&hide_border=true)
 
----
-
-[![](https://visitcount.itsvg.in/api?id=KarthikRagula&icon=0&color=0)](https://visitcount.itsvg.in)
-
+![KarthikRagula's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikRagula&theme=radical&show_icons=true&hide_border=true&layout=compact)
 </div>
